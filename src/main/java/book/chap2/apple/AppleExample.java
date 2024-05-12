@@ -1,18 +1,16 @@
-package book;
+package book.chap2.apple;
 
 import book.chap2.apple.formatter.AppleFancyFormatter;
 import book.chap2.apple.formatter.AppleSimpleFormatter;
 import book.chap2.apple.model.Apple;
 import book.chap2.apple.formatter.AppleFormatter;
-import book.chap2.apple.model.AppleColor;
 
-import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.List;
 
 import static book.chap2.apple.model.AppleColor.*;
 
-public class Main {
+public class AppleExample {
     public static void main(String[] args) {
         List<Apple> inventory = Arrays.asList(
             new Apple(150, GREEN),

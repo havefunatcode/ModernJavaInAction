@@ -1,4 +1,4 @@
-package modern.java.book.chap5.model;
+package book.chap5.model;
 
 public class Trader {
     private final String name;

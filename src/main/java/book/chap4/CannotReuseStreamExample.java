@@ -1,4 +1,4 @@
-package modern.java.book.chap4;
+package book.chap4;
 
 import java.util.Arrays;
 import java.util.List;

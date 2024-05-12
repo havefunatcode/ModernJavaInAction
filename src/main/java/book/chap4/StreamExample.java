@@ -1,6 +1,6 @@
-package modern.java.book.chap4;
+package book.chap4;
 
-import modern.java.book.chap4.model.Dish;
+import book.chap4.model.Dish;
 
 import java.util.List;
 import java.util.stream.Collectors;

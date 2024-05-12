@@ -1,7 +1,4 @@
-package modern.java.book.chap5.model;
-
-import java.util.Arrays;
-import java.util.List;
+package book.chap5.model;
 
 public class Transaction {
     private final Trader trader;

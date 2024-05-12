@@ -1,10 +1,9 @@
-package modern.java.book.chap5;
+package book.chap5;
 
-import modern.java.book.chap5.model.DefaultTransactionFactory;
-import modern.java.book.chap5.model.Trader;
-import modern.java.book.chap5.model.Transaction;
+import book.chap5.model.DefaultTransactionFactory;
+import book.chap5.model.Trader;
+import book.chap5.model.Transaction;
 
-import java.util.Comparator;
 import java.util.List;
 import java.util.Objects;
 import java.util.stream.Collectors;
