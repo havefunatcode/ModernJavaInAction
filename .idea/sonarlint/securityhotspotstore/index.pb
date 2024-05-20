@@ -11,9 +11,6 @@ S
 build.gradle.kts,d\b\dbcff70658daf80b53ce624f6adcaa529df5ed8d
 7
 gradlew,5\b\5bbfa66edb4db3c7c33c5181f43510990d3307f9
-:
-
-.gitignore,a/5/a5cc2925ca8258af241be7e5b0381edf30266302
 l
 <src/main/java/book/chap2/apple/formatter/AppleFormatter.java,a/b/ab6f8925cf29a5ceece17f86142091914d0e3afc
 q

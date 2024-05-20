@@ -1,4 +1,4 @@
-package book.chap2.apple;
+package book.chap2;
 
 import book.chap2.apple.formatter.AppleFancyFormatter;
 import book.chap2.apple.formatter.AppleSimpleFormatter;
