@@ -1,4 +1,4 @@
-package book.chap5.model;
+package book.chap5;
 
 import java.util.stream.Stream;
 
