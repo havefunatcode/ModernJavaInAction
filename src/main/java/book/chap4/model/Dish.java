@@ -52,4 +52,10 @@ public class Dish {
             new Dish("salmon", false, 450, Dish.Type.FISH)
         );
     }
+
+    public CaloricLevel getCaloricLevel() {
+        if (getCalories() <= 400) return CaloricLevel.DIET;
+        else if (this.getCalories() <= 700) return CaloricLevel.NORMAL;
+        else return CaloricLevel.FAT;
+    }
 }
