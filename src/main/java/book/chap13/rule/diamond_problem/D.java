@@ -7,6 +7,6 @@ public class D implements B, C{
 
     @Override
     public void hello() {
-        System.out.println("Hello from D");
+        B.super.hello();
     }
 }
